@@ -2,4 +2,5 @@
 Moj novi repozitori
 
 
-Push na git.Novi skdakjndka
+Push na git.
+MOMOtomo
