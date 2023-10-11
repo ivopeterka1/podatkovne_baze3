@@ -2,5 +2,4 @@
 Moj novi repozitori
 
 
-JOoooo asdasdadad
-Ime mi je slonj in pišem se konj.
+Push na git.Novi 
