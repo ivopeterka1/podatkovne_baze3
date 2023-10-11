@@ -2,4 +2,4 @@
 Moj novi repozitori
 
 
-Push na git.Novi 
+Push na git.Novi skdakjndka
