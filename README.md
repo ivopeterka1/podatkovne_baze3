@@ -2,5 +2,4 @@
 Moj novi repozitori
 
 
-Push na git.
-MOMOtomo
+KAj je narobe?
