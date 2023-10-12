@@ -2,4 +2,4 @@
 Moj novi repozitori
 
 
-KAj je narobe?
+KAj je narobe? S teboj budaloss
