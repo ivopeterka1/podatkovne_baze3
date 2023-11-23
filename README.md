@@ -1,4 +1,5 @@
-# podatkovne_baze3
+# Lego Store
+Avtor: Ivo Peterka, Aljaž Remžgar
 Moj novi repozitori
 
 
